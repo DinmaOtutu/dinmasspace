@@ -7,14 +7,14 @@ sections:
     title: Welcome! I hope you find this space interesting sooner or later!
     type: heroblock
   - component: PortfolioBlock
-    layout_style: tiles
+    layout_style: mosaic
     num_projects_displayed: 2
     section_id: latest-projects
     subtitle: ''
     title: Recent
     type: portfolioblock
     view_all_text: View All
-    view_all_url: portfolio/index.html
+    view_all_url: blog/index.html
   - actions:
       - label: View Blog
         url: blog/index.html
@@ -32,7 +32,7 @@ sections:
 menus:
   main:
     title: Home
-    weight: 1
+    weight: 2
 template: home
 ---
 
