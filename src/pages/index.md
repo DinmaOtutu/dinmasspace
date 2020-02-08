@@ -9,9 +9,9 @@ sections:
   - component: PortfolioBlock
     layout_style: mosaic
     num_projects_displayed: 2
-    section_id: latest-projects
+    section_id: ''
     subtitle: ''
-    title: Recent
+    title: Recents
     type: portfolioblock
     view_all_text: View All
     view_all_url: blog/index.html
