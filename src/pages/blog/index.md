@@ -1,5 +1,5 @@
 ---
-title: January Breakdown
+title: Blog
 menus:
   main:
     title: January Breakdown
