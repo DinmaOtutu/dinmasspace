@@ -17,6 +17,11 @@
       "title": "LinkedIn",
       "icon": "fa-linkedin",
       "url": "https://www.linkedin.com/in/chidinma-otutu/"
+    },
+    {
+      "title": "Gmail",
+      "icon": "fa-mail",
+      "url": "otutudinma1995@gmail.com"
     }
   ]
 }
