@@ -1,5 +1,6 @@
 ---
 title: January Breakdown
+subtitle: Mini January Report Card
 date: 2020-01-31T23:00:00.000Z
 thumb_img_path: images/11.jpg
 content_img_path: images/11.jpg
