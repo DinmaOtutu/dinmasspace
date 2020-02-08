@@ -18,7 +18,7 @@ sections:
 menus:
   main:
     title: Home
-    weight: 2
+    weight: -5
 template: home
 ---
 
