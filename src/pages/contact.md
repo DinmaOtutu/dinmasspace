@@ -1,5 +1,6 @@
 ---
 title: Contact
+img_path: /images/Screenshot 2020-01-14 at 12.22.11 PM.png
 menus:
   main:
     title: Contact
