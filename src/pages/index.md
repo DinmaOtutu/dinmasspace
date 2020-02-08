@@ -10,7 +10,7 @@ sections:
     type: heroblock
   - component: PortfolioBlock
     layout_style: tiles
-    num_projects_displayed: 4
+    num_projects_displayed: 2
     section_id: latest-projects
     subtitle: ''
     title: Recent
@@ -21,15 +21,15 @@ sections:
       - label: View Blog
         url: blog/index.html
     component: PostsBlock
-    num_posts_displayed: 2
+    num_posts_displayed: 4
     section_id: latest-posts
-    subtitle: An optional subtitle of the section
+    subtitle: ''
     title: Latest from the Blog
     type: postsblock
   - component: ContactBlock
     section_id: contact
-    subtitle: An optional subtitle of the section
-    title: Contact Us
+    subtitle: ''
+    title: Contact Me
     type: contactblock
 menus:
   main:
