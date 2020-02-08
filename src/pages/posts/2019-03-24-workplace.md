@@ -13,13 +13,13 @@ I wrote down things I wanted to do for myself but ended up not doing most of the
 
 This year, I want to write monthly reviews of what I am able or not able to achieve at the end of each month, to keep me accountable.
 
-I got a job with a European company in November 2019 to resume on the 6th of January 2020. The period between the offer and my start date gave me the opportunity to complete the projects I was working on with my then company [Schoolable](https://schoolable.co), and level up on the technologies that are used by the new company(you guessed right! I didn’t), also, time to take it all in that I would be moving to Europe soon!!.
+I got a job with a European company in November 2019 to resume on the 6th of January 2020. The period between the offer and my start date gave me the opportunity to complete the projects I was working on with my then company *[Schoolable](https://schoolable.co)*, and level up on the technologies that are used by the new company(you guessed right! I didn’t), also, time to take it all in that I would be moving to Europe soon!!.
 
-> *I made my new year resolutions as I did in [2019](https://docs.google.com/spreadsheets/d/1LU16hvaKja8ke6UNGmDALHHEKZv3tQDptEBuZ5U-QAo/edit?usp=sharing) to help me track my progress. This month, I started off pretty well by reading two books to help me curb some habits I wasn’t proud of, procrastination being the first, starting off with a positive mentatlity, becoming a better version of me, take responsiblities…*
+> *I made my new year resolutions as I did in [2019](https://docs.google.com/spreadsheets/d/1LU16hvaKja8ke6UNGmDALHHEKZv3tQDptEBuZ5U-QAo/edit?usp=sharing) to help me track my progress. This month, I started off pretty well by reading two books to help me curb some habits I wasn’t proud of, procrastination being the first, starting off with a positive mentality, becoming a better version of me, take responsibilities…*
 >
 > *Eat that frog by Brian Tracy and Who will cry when you die Robin Sharma. These books have really shaped my life and thinking so far, for starters , I wrote this article, and I was able to tick off the goals I set for January!.*
 
-**JANUARY GOALS**
+##### **JANUARY GOALS**
 
 Remember no goal is too small, write them down and tick them off. It gives me so much joy to tick off my short goals. Here are the following goals for January
 
