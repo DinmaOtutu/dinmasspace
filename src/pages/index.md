@@ -15,11 +15,6 @@ sections:
     subtitle: ''
     title: Latest from the Blog
     type: postsblock
-  - component: ContactBlock
-    section_id: contact
-    subtitle: ''
-    title: Contact Me
-    type: contactblock
 menus:
   main:
     title: Home
