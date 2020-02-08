@@ -1,17 +1,50 @@
 ---
-title: Understanding Street Photography
-date: '2019-03-10'
+title: January Breakdown
+date: 2020-01-31T23:00:00.000Z
 thumb_img_path: images/8.jpg
 content_img_path: images/8.jpg
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra
-  nam libero justo laoreet sit.
+excerpt: ''
 template: post
 ---
+Yes! I finally summoned the courage to write. I have always wanted to keep track of all my activities, more like my personal report card. The reason I came up with this idea was this, I had taken the position of the president of the procrastination community😅.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra nam libero justo laoreet sit. Tincidunt id aliquet risus feugiat in ante. Non diam phasellus vestibulum lorem sed. Morbi quis commodo odio aenean. Tortor aliquam nulla facilisi cras fermentum odio eu feugiat. Vel eros donec ac odio tempor orci dapibus ultrices. Facilisi morbi tempus iaculis urna id volutpat. Luctus accumsan tortor posuere ac. Sagittis orci a scelerisque purus semper eget. Ultricies mi quis hendrerit dolor magna eget est lorem ipsum. Dolor purus non enim praesent. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Aliquam vestibulum morbi blandit cursus risus.
+I wrote down things I wanted to do for myself but ended up not doing most of them because I procrastinated😢.
 
-Scelerisque fermentum dui faucibus in ornare quam viverra orci. Libero justo laoreet sit amet cursus. Gravida rutrum quisque non tellus orci. Ut sem nulla pharetra diam sit amet nisl suscipit. Lorem ipsum dolor sit amet consectetur adipiscing elit. Urna porttitor rhoncus dolor purus. Quisque non tellus orci ac auctor augue mauris augue. Consectetur adipiscing elit duis tristique sollicitudin. Vitae semper quis lectus nulla at volutpat. Elementum pulvinar etiam non quam lacus suspendisse faucibus. Porta nibh venenatis cras sed felis eget velit. Ullamcorper malesuada proin libero nunc consequat interdum. Enim sed faucibus turpis in eu mi bibendum neque egestas. Facilisi morbi tempus iaculis urna. Rhoncus est pellentesque elit ullamcorper dignissim. Aenean et tortor at risus viverra adipiscing at in. Cursus euismod quis viverra nibh cras pulvinar mattis nunc sed. Sit amet aliquam id diam. Ut tristique et egestas quis ipsum suspendisse. Congue quisque egestas diam in arcu cursus.
+This year, I want to write monthly reviews of what I am able or not able to achieve at the end of each month, to keep me accountable.
 
-Mattis enim ut tellus elementum sagittis. At volutpat diam ut venenatis tellus in metus vulputate eu. Habitant morbi tristique senectus et. Id aliquet lectus proin nibh nisl condimentum id venenatis. Nec tincidunt praesent semper feugiat nibh sed pulvinar. Lectus vestibulum mattis ullamcorper velit sed. Semper viverra nam libero justo. Purus sit amet luctus venenatis. Massa id neque aliquam vestibulum morbi blandit cursus risus at. Feugiat nibh sed pulvinar proin gravida.
+I got a job with a European company in November 2019 to resume on the 6th of January 2020. The period between the offer and my start date gave me the opportunity to complete the projects I was working on with my then company [Schoolable](https://schoolable.co), and level up on the technologies that are used by the new company(you guessed right! I didn’t), also, time to take it all in that I would be moving to Europe soon!!.
+
+
+
+> I made my new year resolutions as I did in [2019](https://docs.google.com/spreadsheets/d/1LU16hvaKja8ke6UNGmDALHHEKZv3tQDptEBuZ5U-QAo/edit?usp=sharing) to help me track my progress. This month, I started off pretty well by reading two books to help me curb some habits I wasn’t proud of, procrastination being the first, starting off with a positive mentatlity, becoming a better version of me, take responsiblities…
+>
+> Eat that frog by Brian Tracy and Who will cry when you die Robin Sharma. These books have really shaped my life and thinking so far, for starters , I wrote this article, and I was able to tick off the goals I set for January!.
+
+**JANUARY GOALS**
+
+Remember no goal is too small, write them down and tick them off. It gives me so much joy to tick off my short goals. Here are the following goals for January
+
+* Read the following books\
+  - Eat that frog (Brian Tracy)\
+  - Who will cry when you die(Robin Sharma) 🥰 read!!
+* Register in the gym (Have started the fit-fam lifestyle)
+* Save a certain amount of money from my salary
+* Summarise the month of January(Holla, that’s what you are reading)
+* Fast for 12 days (Jan 20th- 31st) for my spiritual growth
+* Learn to use DynamoDb, AWS cloud formation, typescript, and GraphQL. For these technologies, I really needed to learn them for my new job. I cannot say I am currently proficient in them, but I can use them to some extent, at least I pushed some codes to production😎 though my hands are still shaky.
+* Get a weighing scale, a sister has to know when them fats are dropping (If only I could sell them for money).
+* Complete the remaining work I had with my previous company.
+* Listen to Ted talks, podcasts when I am jogging or in the gym (I downloaded the TED app, Myles Munroe app as well, they are amazing).
+
+These pretty much sum up my January activities and I hope to continue.
+
+Those books have a lot of information that could be of good use to you, and I recommend them when you have the time. You can download [Anybooks](https://www.anybooks.app/download), this app has a lot of amazing books!!
+
+For February books, I plan to read these two:
+
+* Unfuck yourself
+* Good Morning Holy Spirit by Benny Hinn
+
+February will definitely be better🥳.
+
+Thanks for reading😇.
