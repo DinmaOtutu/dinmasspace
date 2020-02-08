@@ -2,7 +2,7 @@
 title: January Breakdown
 menus:
   main:
-    title: Blog
+    title: January Breakdown
     weight: 3
 template: blog
 ---
