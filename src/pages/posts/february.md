@@ -2,6 +2,7 @@
 title: FEBRUARY
 date: 2020-03-01T18:51:47.401Z
 thumb_img_path: /images/7.jpg
+content_img_path: /images/7_thumb.jpg
 template: post
 ---
 I am super excited to be sharing the February report card with you guys. I am also a believer in the saying “*If you plan to excel in big things, you have to develop the habit in the small ones.”*
