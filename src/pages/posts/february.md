@@ -17,7 +17,7 @@ This month was special to me because I focused majorly on my self and wellbeing.
 * Avoid soda, noodles, bread, late-night food, etc.
 * Take a lot of fruits and vegetables
 * Scoring over 75% in my book target for the month (Don’t judge me, it’s an A 💅🏼)\
-      *\-Unfuc*k Yourself by Gary John Bishop (It’s an interesting read!)\
+     - Unfuck Yourself by Gary John Bishop (It’s an interesting read!)
 
   * Good Morning Holy Spirit by Benny Hinn(I am glad I found this book). I could not complete this one, it has been pushed over to March.
 * Losing a minimum of 4kg
