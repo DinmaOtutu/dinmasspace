@@ -2,8 +2,8 @@
 title: January Breakdown
 subtitle: Mini January Report Card
 date: 2020-01-31T23:00:00.000Z
-thumb_img_path: images/11.jpg
-content_img_path: images/11.jpg
+thumb_img_path: /images/landscape-nature-wilderness-view-68147.jpg
+content_img_path: /images/bunch-of-pink-tulips-589697.jpg
 excerpt: How did my first month of 2020 go?
 template: post
 ---
