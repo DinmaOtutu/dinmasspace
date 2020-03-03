@@ -1,8 +1,8 @@
 ---
 title: FEBRUARY
 date: 2020-03-01T18:51:47.401Z
-thumb_img_path: /images/7.jpg
-content_img_path: /images/7_thumb.jpg
+thumb_img_path: /images/white-rolling-armchair-beside-table-1957478.jpg
+content_img_path: /images/black-business-computer-contemporary-296115.jpg
 template: post
 ---
 I am super excited to be sharing the February report card with you guys. I am also a believer in the saying “*If you plan to excel in big things, you have to develop the habit in the small ones.”*
@@ -18,8 +18,8 @@ This month was special to me because I focused majorly on my self and wellbeing.
 * Avoid soda, noodles, bread, late-night food, etc.
 * Take a lot of fruits and vegetables
 * Scoring over 75% in my book target for the month (Don’t judge me, it’s an A 💅🏼)\
-     - Unfuck Yourself by Gary John Bishop (It’s an interesting read!)
 
+  * Unfuck Yourself by Gary John Bishop (It’s an interesting read!)
   * Good Morning Holy Spirit by Benny Hinn(I am glad I found this book). I could not complete this one, it has been pushed over to March.
 * Losing a minimum of 4kg
 * Saving 60% of my salary (I tend to save a LOT)
