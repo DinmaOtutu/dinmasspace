@@ -28,7 +28,7 @@ What I mostly do is this, before my money comes, I have a spreadsheet where I li
 * Miscellaneous
 * Money to the family(it’s okay if your money does not cover this)
 
-I always make sure that these allocations do not get tampered with things I do not need. This keeps me on a check, and with this, your savings grow either weekly, monthly or daily depending on how your income flows in.
+I always make sure that these allocations do not get tampered with things I do not need. This keeps me in check, and with this, your savings grow either weekly, monthly or daily depending on how your income flows in.
 
 # Save & Invest
 
