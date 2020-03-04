@@ -51,4 +51,4 @@ The more you can save and invest, the more your **WANTS** reduce, the less you s
 
 Just my two cents. Let me know your thoughts in the comment section [here](https://medium.com/@Dinma/savings-should-be-a-habit-5c1dd30a6521?sk=f16a50029d8609d963fbd1ef1b790e6e)…….
 
-Ps: The next write up, I will talk about unforeseen expenses, lending money to people, learning when to say Yes or No.
+Ps: ***The next write up, I will talk about unforeseen expenses, lending money to people, learning when to say Yes or No.***
