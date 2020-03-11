@@ -10,7 +10,7 @@ sections:
       - label: View Blog
         url: blog/index.html
     component: PostsBlock
-    num_posts_displayed: 4
+    num_posts_displayed: 6
     section_id: latest-posts
     subtitle: ''
     title: Latest from the Blog
@@ -21,4 +21,3 @@ menus:
     weight: -5
 template: home
 ---
-
