@@ -2,6 +2,8 @@
 title: What are your struggles?
 subtitle: My weightloss Journey so far
 date: 2020-03-11T17:54:00.847Z
+thumb_img_path: /images/blue-tape-measuring-on-clear-glass-square-weighing-scale-53404.jpg
+content_img_path: /images/scrabble-pieces-on-a-plate-2377045.jpg
 template: post
 ---
 ### **MY WEIGHT LOSS STRUGGLE**
