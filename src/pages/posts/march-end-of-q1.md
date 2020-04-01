@@ -19,10 +19,10 @@ The few goals I set for this month were;
 * Lose 5kg
 * Renew gym membership (I did but was cut short because of Coro)
 * Workout 6 days a week
-* Complete these books\
+* Complete these books
 
-  * Good morning Holy Spirit\
-  * The art of living(please read)\
+  * Good morning Holy Spirit
+  * The art of living(please read)
   * For women only (I enjoyed this as well)
 * Personal study (1 hour 5 days a week) work-related.
 * Write this review (yup)
@@ -39,9 +39,9 @@ Reading has a mood and it takes a lot of discipline my people, some days you jus
 
 Writing this review? I actually look forward to it. It is part of my motivation, I would not want it to be empty, neither would I want to lie, it makes me try my best to tick off my goals. Thanks for reading 😇.
 
-I was able to write two short articles, these are the links to them:\
+I was able to write two short articles, these are the links to them:
 
-* <https://dinma.netlify.com/posts/what-are-your-struggles/>\
+* <https://dinma.netlify.com/posts/what-are-your-struggles/>
 * <https://dinma.netlify.com/posts/savings-should-be-a-habit/>\
   You can find other monthly reviews on this blog.
 
