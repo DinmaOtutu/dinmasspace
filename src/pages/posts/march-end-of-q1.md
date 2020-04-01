@@ -9,7 +9,7 @@ template: post
 ---
 ### **MARCH 2020, END OF Q1**
 
-This month was kind of challenging, the panic, and fear of COVID-19, We continued to power through.
+This month was kind of challenging, the panic, and fear of COVID-19, we continued to power through.
 
 It’s the end of the first quarter, I reflected on how I have spent it. I will say I am impressed with my progress so far though mostly my weightloss journey, few changes here and there mostly with my stomach.
 
@@ -33,9 +33,9 @@ The few goals I set for this month were;
 
 I was able to save up to 70%, for some reason.
 
-I renewed my gym membership, I have two awesome coaches who are determined to help me get to my goals. Although it was cut short because of Corona Virus. About the 5kg we didn’t reach this goal, but we shed some weight, my clothes can testify!🕺🕺. We also nailed the workout 6 days a week, it's now a lifestyle.
+I renewed my gym membership, I have two awesome coaches who are determined to help me get to my goals. Although it was cut short because of Coronavirus. About the 5kg we didn’t reach this goal, but we shed some weight, my clothes can testify!🕺🕺. We also nailed the workout 6 days a week, it's now a lifestyle.
 
-Reading has a mood and it takes a lot of discipline my people, some days you just want to be on your phone, gist, eat and sleep. I have to keep myself accountable, give this update, and grow as a person. I didn’t take this seriously. I will do better. I studied a few times in the mornings. At night, I try to read one of the books I have selected for the month giving it at least an hour before I say good night. I completed the selected books for the month though.
+Reading has a mood and it takes a lot of discipline people, some days you just want to be on your phone, gist, eat and sleep. I have to keep myself accountable, give this update, and grow as a person. I didn’t take this seriously. I will do better. I studied a few times in the mornings. At night, I try to read one of the books I have selected for the month giving it at least an hour before I say good night. I completed the selected books for the month though.
 
 Writing this review? I actually look forward to it. It is part of my motivation, I would not want it to be empty, neither would I want to lie, it makes me try my best to tick off my goals. Thanks for reading 😇.
 
@@ -58,6 +58,6 @@ All these listed above are the few things I will work on while ticking off other
 **WE ARE READY FOR Q2, MY BIRTH MONTH (10th April)…\
 HAPPY NEW MONTH TO YOU…**
 
-Ps: We shall overcome, let’s stay safe while fighting the virus.
+PS: We shall overcome, let’s stay safe while fighting the virus.
 
 Thanks for reading, you can read other write-ups [here](https://dinma.netlify.com)
