@@ -29,7 +29,7 @@ The few goals I set for this month were;
 * write 2 articles
 * Participate properly this lent period (for Catholics)
 
-A**chieved Goals**
+## **Achieved Goals**
 
 I was able to save up to 70%, for some reason.
 
@@ -51,7 +51,7 @@ I am also killing the nail-biting-ish, we are two months old today🍻.
 
 **END OF Q1**
 
-Q1 was good, but I know I can do better if I put in more work, most especially in my career, personal relationship with God, checking up on loved ones, eating healthier, have more fun, help out more people in the areas I am sufficient, be more expressive, be more intentional, study harder, write more, travel, attend workshops and conferences, watch movies, more TikTok, start a vlog.
+Q1 was good, I know I can do better if I put in more work in Q2, mostly in my career, personal relationship with God, checking up on loved ones, eating healthier, having more fun, helping out more people in the areas I am sufficient, being more expressive, being more intentional, studying harder, writing more, traveling, attending workshops and conferences, watching movies, more TikTok, starting a vlog🌞.
 
 All these listed above are the few things I will work on while ticking off other goals.
 
