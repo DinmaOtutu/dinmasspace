@@ -25,11 +25,7 @@ I struggle with procrastination a lot, some days I stand-in for the President, s
 
 These books are amazing for sure, they have gotten me from point -20 to 69. It is one thing to read about stuff and it is an entirely different ball game to put into action some of the newly acquired knowledge. If you think you are a chronic procrastinator you can start with one of those books.
 
-
-
-> The word Procrastination is not the bad guy, the bad guy to me is not knowing when procrastination can lead to disaster. By disaster I mean, damaging a lot of things that could have been done if only I took the step at the right time!
-
-
+> *The word Procrastination is not the bad guy, the bad guy to me is not knowing when procrastination can lead to disaster. By disaster I mean, damaging a lot of things that could have been done if only I took the step at the right time!*
 
 I have experienced a lot of disasters due to my habit of excessive procrastination. I keep shifting things like I am the Creator who knows whether or not there will be a tomorrow. I always wait for the dying minute to get somethings done. Yes, it works a few times, but mostly it doesn’t because it leads to doing things haphazardly. This can jeopardize a lot of things especially for people in the professional environment, students, role models, myself, etc.
 
