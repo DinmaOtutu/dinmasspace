@@ -1,6 +1,6 @@
 ---
 title: END OF Q2, JUNE
-subtitle: THE END OF FIRST HALF OF THE YEAR
+subtitle: SELF EVALUATION
 date: 2020-06-30T19:22:19.438Z
 thumb_img_path: /images/black-business-computer-contemporary-296115.jpg
 content_img_path: /images/black-business-computer-contemporary-296115.jpg
