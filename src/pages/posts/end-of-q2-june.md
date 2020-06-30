@@ -15,7 +15,7 @@ It also happens that my workplace is doing the same thing, where you self-evalua
 
 How often do you sit down alone to criticise and evaluate all aspects of your life? I know most times we praise ourselves, find those wins that make us proud, hear people tell us how wonderful and great we are doing. Deep down do you think you are doing as great as people say you are? Do you think you are really giving it your best💫 ?
 
-I do not think I am doing as great as people really think I am. I do not think I give my best in everything. I do not think I most times know what I am doing. I can say the praises sometimes make me feel good about myself and at the same time keeps me at my comfort zone. I mean, after all, people say I am doing so good😤.
+I do not think I am doing as great as people really think I am. I do not think I give my best in everything. I do not think I most times know what I am doing. I can say the praises sometimes make me feel good about myself and at the same time keeps me at my comfort zone. I mean, after all, people say I am doing so well😤.
 
 While taking that stroll, I thought and analysed a lot of areas in my life and how I need to improve badly. I think I have become comfortable, my body can tell. I know I need to work on myself and I mean every aspect of my life. I have decided to take charge and push myself yet again🤷🏽‍♀️.
 
