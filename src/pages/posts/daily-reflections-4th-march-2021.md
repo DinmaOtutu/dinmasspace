@@ -43,10 +43,10 @@ From all of these, I wasn't able to complete the intermittent fasting because I 
 1. I am grateful for life
 2. I am grateful for opportunities
 3. I am grateful for my family and loved ones
-4. I am grateful for experience and lessons learned
-5. I am grateful that I am
+4. I am grateful for experiences and lessons learned so far
+5. I am grateful for the little knowledge and wisdom I have
 
 # Action items
 
 * \[ ] Time my food properly in other to accomplish my target for intermittent fasting tomorrow.
-* \[ ] Try to catch up work that was done while I was away.
+* \[ ] Try to catch up on work that was done while I was away.
