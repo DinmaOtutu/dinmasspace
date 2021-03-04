@@ -1,5 +1,5 @@
 ---
-title: DAILY REFLECTIONS 4TH MARCH 2021
+title: "DAILY REFLECTIONS: 4TH MARCH 2021"
 subtitle: My journey on daily journal
 date: 2021-03-04T21:32:56.768Z
 thumb_img_path: /images/4th.webp
