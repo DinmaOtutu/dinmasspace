@@ -8,9 +8,9 @@ template: post
 ---
 # Intentions
 
-1. I plan on starting little habits that hopefully becomes a part of me
-2. I plan to go on a new diet journey
-3. I plan to return to work today
+1. I plan on starting little habits that hopefully becomes a part of me.
+2. I plan to go on a new diet journey.
+3. I plan to return to work today.
 
 # Happenings
 
