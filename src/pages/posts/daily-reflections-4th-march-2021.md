@@ -50,3 +50,5 @@ From all of these, I wasn't able to complete the intermittent fasting because I 
 
 * \[ ] Time my food properly in other to accomplish my target for intermittent fasting tomorrow.
 * \[ ] Try to catch up on work that was done while I was away.
+
+  <script async data-uid="a866018eeb" src="https://dedicated-artisan-3955.ck.page/a866018eeb/index.js"></script>
