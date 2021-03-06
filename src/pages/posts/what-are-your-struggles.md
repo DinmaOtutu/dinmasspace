@@ -28,3 +28,5 @@ This is my struggle and I hope I make myself proud.
 #### What is your struggle?
 
 Thanks for reading….I just needed to write this!
+
+<script async data-uid="a866018eeb" src="https://dedicated-artisan-3955.ck.page/a866018eeb/index.js"></script>
