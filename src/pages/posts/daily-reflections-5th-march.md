@@ -32,10 +32,4 @@ For these things and others I couldn't mention, I am going to write the things I
 * \[ ] Make better research on the next content I am about to put out on my channel.
 * \[ ] Learn to make better thumbnails for my videos.
 
-  <script src="https://f.convertkit.com/ckjs/ck.5.js"></script>
-
-  ```html
-
-  ```
-
   <script async data-uid="a866018eeb" src="https://dedicated-artisan-3955.ck.page/a866018eeb/index.js"></script>
