@@ -5,8 +5,6 @@ date: 2021-03-10T21:25:39.425Z
 thumb_img_path: /images/10th-march.jpeg
 template: post
 ---
-
-
 # Intentions
 
 1. People showing you love and how they care can go a long way, I want to keep spreading love and showing genuine care as much as I can while on earth.
@@ -37,3 +35,5 @@ The stock market did well today after the heavy dip over the weekend. My crypto 
 # Action items
 
 * \[ ] Improve my research skills
+
+  <script async data-uid="a866018eeb" src="https://dedicated-artisan-3955.ck.page/a866018eeb/index.js"></script>
