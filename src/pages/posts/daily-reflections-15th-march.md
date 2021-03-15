@@ -2,6 +2,7 @@
 title: "DAILY REFLECTIONS: 15TH MARCH"
 subtitle: My journey to journaling
 date: 2021-03-15T21:48:18.845Z
+thumb_img_path: /images/15th.jpeg
 template: post
 ---
 
