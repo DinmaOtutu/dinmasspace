@@ -5,13 +5,7 @@ date: 2021-03-15T21:48:18.845Z
 thumb_img_path: /images/15th.jpeg
 template: post
 ---
-
-
-### DAILY REFLECTIONS: 15TH MARCH 2O21
-
-![](https://cdn-images-1.medium.com/max/1600/1*aGO88oKGhUB7V3s2HuJpDg.jpeg)
-
-[15TH MARCH 2021](http://www.google.com/)
+![]()
 
 ### Intentions
 
