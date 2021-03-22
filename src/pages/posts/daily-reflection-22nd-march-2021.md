@@ -3,10 +3,9 @@ title: "DAILY REFLECTION: 22ND MARCH 2021"
 subtitle: "How the journey is going "
 date: 2021-03-22T21:25:41.528Z
 thumb_img_path: /images/22nd.jpeg
+content_img_path: /images/22nd.jpeg
 template: post
 ---
-
-
 # Intentions
 
 1. I need to learn to be kinder to myself.
@@ -31,5 +30,3 @@ May my lines fall in pleasant places and also for you who is reading this!❤️
 
 * \[ ] Try to finish up work-related task for tomorrow
 * \[ ] Learn how to use my new studio setup box/equipment
-
-  <script async data-uid="a866018eeb" src="https://dedicated-artisan-3955.ck.page/a866018eeb/index.js"></script>
