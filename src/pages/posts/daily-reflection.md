@@ -1,5 +1,5 @@
 ---
-title: DAILY REFLECTION
+title: "DAILY REFLECTION: 25TH MARCH 2021"
 subtitle: A lazy day
 date: 2021-03-25T22:21:08.882Z
 thumb_img_path: /images/25th-march.jpeg
