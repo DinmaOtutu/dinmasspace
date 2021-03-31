@@ -1,20 +1,18 @@
 ---
 title: "DAILY REFLECTION: 31ST MARCH 2021"
-subtitle: The end to a new beginning
+subtitle: The end of a new beginning
 date: 2021-03-31T21:05:21.233Z
 thumb_img_path: /images/31st.png
 content_img_path: /images/31st.png
 template: post
 ---
-
-
 # Intentions
 
 1. To be very intentional about my actions.
 
 # Happenings
 
-Today is the last day of the month and also the end of the first quarter. I posted my first quarter review on my YouTube channel and also planned for the month of April. It was nice journaling for the first time ever and I must say this challenge was good 💪🏽.
+Today is the last day of the month and also the end of the first quarter. I posted my first quarter review on my [YouTube channel](https://youtu.be/_AobBXcReIs) and also planned for the month of April. It was nice journaling for the first time ever and I must say this challenge was good 💪🏽.
 
 I do not have plans of stopping this journaling challenge because I enjoy doing it. I have learned a whole lot from this challenge ranging from consistency to mediation, relaxation, accountability, character building, expressing myself verbally, and the list goes on and on⌛️.
 
